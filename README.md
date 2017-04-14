@@ -1,2 +1,2 @@
 # ArcheoBM
-Archaeology Based Modelling
+Archaeology Based Modelling: A few NetLogo models for archaeology classes.
