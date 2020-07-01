@@ -10,7 +10,7 @@ This model analyse how the balance between nature and culture affects the landsc
 This model's successive versions have been presented at the 2016 Brazilian Rock Art Association and at the 2017 Computer Application in Archaeology.
 
 ### Sampling
-New version. In v0.3 one can play it alone and use it to compare how field methods affect the excavation process. Here, the archaeologist can design his own field methodology, and see how it would random and systematic sampling have worked out. The model uses a system of point-and-click to produce actions.
+In this model, the archaeologist can design a field methodology, and compare how would random and systematic sampling have worked out. The model uses point-and-click to produce actions.
 
 New things from version 0.5:
 - The point-and-click step are simplified. Just hit the Go excavate! button and click wherever you want. It allows to click-and-drag to create trenches and shapes.
