@@ -16,3 +16,6 @@ New things from version 0.5:
 - The point-and-click step are simplified. Just hit the Go excavate! button and click wherever you want. It allows to click-and-drag to create trenches and shapes.
 - Added the amount or proportion of sites/concentrations found by the archaeologist and through other methods.
 - Revealing the map now shows all three methods in different colors.
+
+### Heritage
+This new model simulates the work of public officers to prevent the natural degradation of archaeological sites. The user defines initial conditions and see how the heritage is kept - or not. Some variables can be updated as the simulation goes. Users also can send archaeologists to dig out new sites and watch how the officers struggle to manage. Give them a little budget allowance.
